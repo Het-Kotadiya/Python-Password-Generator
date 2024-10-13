@@ -21,7 +21,7 @@ pip install pyperclip
 * Navigate to the project directory
 * Run the code
   ```
-  python password_generator.py
+  python Password_Generator.ipynb
   ```
 # Smaple Output
 ```
